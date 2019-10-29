@@ -1,0 +1,7 @@
+Created a Temperature Conversion application as described below. 
+
+The app should allow the user to select either Fahrenheit-to-Celsius or Celsius-to-Fahrenheit conversions. Conversion is selected using Radio Buttons. 
+
+All conversion operations and their results should be added to the “history” – a list of converted values. The history of converted values must be scrollable and displayed with the most recent conversions at the top of the list.
+
+Pressing the “Clear” button will clear the conversion history.
